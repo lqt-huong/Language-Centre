@@ -8,3 +8,4 @@ Language Centre is a simple C# application used for Language center management. 
 const string CONNECTION_STRING = @"Data Source=JOSIE;Initial Catalog=English_Centre;Integrated Security=True"; //connection string của TH
 
 ```
+3. Start Program.cs file to run this project.
